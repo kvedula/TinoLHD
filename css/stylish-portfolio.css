@@ -240,6 +240,10 @@ hr.small {
     padding: 2%;
 }
 
+.facBloc {
+    border: 3px solid white;
+}
+
 .faqBloc:hover {
     background-color: white;
     color: black;
