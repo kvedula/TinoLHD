@@ -245,6 +245,10 @@ hr.small {
 }
 
 .faqBloc:hover {
+    -webkit-transition: all 500ms ease-out;
+    -moz-transition: all 500ms ease-out;
+    -o-transition: all 500ms ease-out;
+    transition: all 500ms ease-out;
     background-color: white;
     color: black;
     height: 20%;
